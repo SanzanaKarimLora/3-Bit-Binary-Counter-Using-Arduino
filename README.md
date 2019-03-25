@@ -1,0 +1,1 @@
+This is a small project based on Arduino. It can display 3 bit binary number sequentially. By using LED, the binary value can be shown.
